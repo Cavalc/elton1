@@ -1,1 +1,3 @@
-teste de inclusão na primeira linha
+removi a primeira linha
+inseri a segunda linha
+inseri a terceira linha
